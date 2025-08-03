@@ -11,7 +11,7 @@
 │                                                                               │
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
-
+ 
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F5F5F5&background=00000000&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vidhi+Singh+Parihar;Full+Stack+Developer+%7C+Tech+Explorer;Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG"/>
